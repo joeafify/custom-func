@@ -1,1 +1,1 @@
-// TODO: Implement library code
+export * from "@/getRelativeTime";
