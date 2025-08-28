@@ -9,7 +9,11 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^11.0.4",
+    "@semantic-release/npm": "^12.0.2",
     "@types/node": "^24.3.0",
+    "semantic-release": "^24.2.7",
     "typescript": "~5.8.3",
     "vite": "^7.1.2"
   }
